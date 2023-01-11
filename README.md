@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## I'm Evanilson Pereira
+## I'm Evanilson Pereira.
 
 ### 💻 &nbsp;About Me 
 
