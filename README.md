@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **APIs.**
 
-- 🌱 I’m currently learning **Angular and Bootstrap**
+- 🌱 I’m currently learning **React, Next Js and Bootstrap**
 
 - 📫 How to reach me **pevanilson99@gmail.com**
 
@@ -33,7 +33,8 @@
 <div align="left">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Dark.svg" width="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" width="50"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="50"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" width="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" width="50"/>
 </div>
 
@@ -65,9 +66,7 @@
 </div>
 
 <div align="left">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evanilsonp&show_icons=true&locale=en&layout=compact" alt="evanilsonp" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evanilsonp&show_icons=true&locale=en" alt="evanilsonp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanilsonp&" alt="evanilsonp" /></p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvanilsonP&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EvanilsonP&theme=radical&layout=compact&exclude_lang=java+r" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evanilsonp&" alt="evanilsonp" />
 </div>
