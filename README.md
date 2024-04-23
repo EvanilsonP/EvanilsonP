@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evanilsonp" alt="evanilsonp" /></a> </p>
 
-- 🌱 I’m currently learning **React, Next Js and Tailwindcss**
-
 - 📫 How to reach me **pevanilson99@gmail.com**
 
 ### 🛠 &nbsp;Stack
