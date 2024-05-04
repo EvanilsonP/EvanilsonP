@@ -28,14 +28,12 @@
 </div>
 
 
-
 ### 🛠 &nbsp;Databases
 <div align="left">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" width="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" width="50"/>
 </div>
-
 
 
 ### 🛠 &nbsp;Devops
@@ -45,7 +43,6 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" width="50"/>
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="50"/>
 </div>
-
 
 
 ### 🛠 &nbsp;Tools
